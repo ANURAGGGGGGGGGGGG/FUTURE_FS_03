@@ -20,7 +20,7 @@ export default function PrivacyPage() {
           <section className="mb-8">
             <h2 className="text-xl font-semibold">1. Introduction</h2>
             <p>
-              This Privacy Policy explains how BrewMate ("we", "us", or "our") collects, uses, discloses, and safeguards your information when you visit our website, use the BrewMate app, or interact with our services.
+              This Privacy Policy explains how BrewMate (&ldquo;we&rdquo;, &ldquo;us&rdquo;, or &ldquo;our&rdquo;) collects, uses, discloses, and safeguards your information when you visit our website, use the BrewMate app, or interact with our services.
             </p>
           </section>
 

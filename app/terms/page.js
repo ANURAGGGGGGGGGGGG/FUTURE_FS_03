@@ -80,7 +80,7 @@ export default function TermsPage() {
           <section className="mb-8">
             <h2 className="text-xl font-semibold">9. Disclaimer of Warranties</h2>
             <p>
-              The website and services are provided on an "as is" and "as available" basis without warranties of any kind, express or implied.
+              The website and services are provided on an &ldquo;as is&rdquo; and &ldquo;as available&rdquo; basis without warranties of any kind, express or implied.
             </p>
           </section>
 
